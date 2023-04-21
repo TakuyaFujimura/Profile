@@ -11,10 +11,10 @@
 ・藤村拓弥, 宮崎亮一, "Deep Image Priorにおける生成過程の初期値依存性を利用したミュージカルノイズ除去," 日本音響学会研究発表会講演論文集, 1-1Q-1, pp. 329-330, March 2022.
 ・大中緋慧, 藤村拓弥, 宮崎亮一, "Double-DIPに基づく単一雑音混入音声のみを用いた雑音除去の検討," 電子情報通信学会技術研究報告, Vol. 122, No. 20, EA2022-12, pp. 54-61, May 2022.
 ・藤村拓弥, 戸田智基, "DNN音声強調におけるNoisy-target Trainingの挙動分析," 日本音響学会研究発表会講演論文集, 2-2-7, pp. 197-198, September 2022.
+・藤村拓弥, 戸田智基, "DNN音声強調におけるNoisy-target Trainingの分析と実応用に向けた調査," 電子情報通信学会技術研究報告, Vol. 122, No. 387, EA2022-112, pp. 221-226, March 2023.
+・藤村拓弥, 戸田智基, "大規模雑音混入音声データを利用したDNN音声強調学習の効果," 日本音響学会研究発表会講演論文集, 1-1P-2, pp. 209-210, March 2023.
 
 ==Preprint==
-・藤村拓弥, 戸田智基, "DNN音声強調におけるNoisy-target Trainingの分析と実応用に向けた調査," 電子情報通信学会技術研究報告, Vol. ?, No. ?, EA??, pp. ??-??, February 2023.
-・藤村拓弥, 戸田智基, "大規模雑音混入音声データを利用したDNN音声強調学習の効果," 日本音響学会研究発表会公園論文集, pp. ??-??, March 2023.
 ・Takuya Fujimura, Tomoki Toda, "Analysis of Noisy-target Training for DNN-based Speech Enahancement," arXiv preprint arXiv:2211.01198, 2022.
 
 
