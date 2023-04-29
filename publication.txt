@@ -15,7 +15,7 @@
 ・藤村拓弥, 戸田智基, "大規模雑音混入音声データを利用したDNN音声強調学習の効果," 日本音響学会研究発表会講演論文集, 1-1P-2, pp. 209-210, March 2023.
 
 ==Preprint==
-・Takuya Fujimura, Tomoki Toda, "Analysis of Noisy-target Training for DNN-based Speech Enahancement," arXiv preprint arXiv:2211.01198, 2022.
+・Takuya Fujimura, Tomoki Toda, "Analysis of Noisy-target Training for DNN-based Speech Enhancement," arXiv preprint arXiv:2211.01198, 2022.
 
 
 ==Award==
